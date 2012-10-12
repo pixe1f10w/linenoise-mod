@@ -6,7 +6,7 @@ News: linenoise is now part of [Android](http://android.git.kernel.org/?p=platfo
 
 ## Linenoise-mod specific
 
-This is for now a pretty outdated fork of [linenoise](http://github.com/antirez/linenoise) with my partially accepted patch to it. It contains history (accepted in a bit modified form) and line completion (not-accepted) functionality. I think my realization of completion deserves to be preserved here as it is not worse than in mainline. Example of usage is provided. Source code is not changed since june 2010.
+This is for now a pretty outdated fork of [linenoise](http://github.com/antirez/linenoise) with my partially accepted patch to it. It contains history (accepted in a bit modified form) and line completion (not-accepted) functionality. I think my realization of completion deserves to be preserved here as it is not worse than in mainline. Example of usage is provided in `example.c` file. Source code is not changed since june 2010.
 
 Copyright (c) 2010, 2012. Ilia Zhirov (contributions-only).
 
